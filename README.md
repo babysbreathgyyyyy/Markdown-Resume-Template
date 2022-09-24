@@ -6,11 +6,11 @@
 
 * 性 别：女&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
 * 手 机：13263550760 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：13263550760@163.com    
-* 学历：本科 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Java开发工程师
+* 学历：本科 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Java开发工程师
 
 ## 教育经历
                
-* 2016.9-2021.7&emsp;&emsp;&emsp;&emsp;&emsp哈尔滨金融学院 
+* 2016.9-2021.7&emsp;&emsp;&emsp;&emsp;&emsp;哈尔滨金融学院 
 
 ## 专业技能
 
