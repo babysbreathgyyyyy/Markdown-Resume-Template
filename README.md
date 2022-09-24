@@ -6,7 +6,7 @@
 
 * 性 别：女&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
 * 手 机：13263550760 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：13263550760@163.com    
-* 学历：本科 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Java开发工程师
+* 学历：本科 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Java开发工程师
 
 ## 教育经历
                
